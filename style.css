@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+}
+.quicksand{
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    background-color: #f7f7f7;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 140px;
+    align-items: center;
+  }
+  .logo, .nav ul{
+    display: flex;
+    align-items: center;
+  }
+  .logo-img{
+    width: 60px;
+    margin-right: 11px;
+    
+  }
+  .logo h3
+  {
+    font-size: 32px;
+    font-weight: bold;
+  }
+ .nav-item{
+    list-style: none;
+    margin-right: 30px;
+ }
+.nav-link{
+    text-decoration: none;
+}
+.home{
+    color:rgba(254, 163, 1, 1) ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.about{
+    color:rgba(1, 172, 253, 1) ;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.faci{
+    color: #05D4DF ;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.admi{
+    color:#5D58EF;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+  .nav-btn button{
+   background-color: rgba(254, 163, 1, 1);
+   color: rgba(255, 255, 255, 1); 
+   font-size: 20px;
+   font-weight: 600px;
+   padding: 10px 60px;
+   border-radius: 12px;
+   border: none;
+  }
