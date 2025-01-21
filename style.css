@@ -295,10 +295,24 @@ text-align: left;
     margin-top: 20px;
     font-size: 15px;
     color: #FFFFFF;
+    width: 399px;
 }
 .a-school h3{
     color: #FFFFFF;
     font-size: 24px;
+    margin-bottom: 20px;
+}
+.a-school h5{
+font-size:18px ;
+color: #FFFFFF;
+margin-bottom: 20px;
+font-weight: 500px;
+
+}
+.icons h4{
+font-size: 26px;
+color: #FFFFFF;
+margin-bottom: 32px;
 }
 
 
@@ -410,6 +424,34 @@ height: 92px;}
         height: 42px;
         font-size: 12px;
     }
+
+    .footer{
+        
+        /* padding: 123px 230px 174px 140px; */
+       flex-direction: column;
+       padding: 0px;
+       padding: 65px 10px 0 16px;
+    }
+    
+    .kids-e p{
+       width: 280px;
+       margin-bottom: 20px;
+       
+    }
+  
+  .a-school{
+    margin-left: 11px;
+  }
+  .icons h4{
+    margin-left: 11px;
+    font-size: 23px;
+  }
+  .icons img{
+    margin-bottom: 30px;
+    margin-left: 8px;
+  }
+    
+
 
   }
 
